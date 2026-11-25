@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AFRICA STORIES</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #171b16;
+      color: white;
+      text-align: center;
+      padding: 80px 20px;
+    }
+    h1 {
+      color: #e9b84b;
+      font-size: 42px;
+    }
+    p {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>AFRICA STORIES</h1>
+  <p>Les histoires africaines prennent vie.</p>
+  <p>Découvrez nos contes, nos cultures et nos talents.</p>
+</body>
+</html>
